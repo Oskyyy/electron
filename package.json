@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "electron",
   "main": "index.js",
+  "scripts": {
+    "start": "electron main.js",
+  },
   "repository": "git@github.com:Oskyyy/electron.git",
   "author": "Oskar Wrotniak <oskarwro@gmail.com>",
   "license": "MIT",
